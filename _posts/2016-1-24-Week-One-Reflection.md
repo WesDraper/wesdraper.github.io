@@ -1,7 +1,13 @@
-Reference-style: 
+
 ![alt text][logo]
 
 [logo]: http://i1273.photobucket.com/albums/y419/WesleyDraper/IMG_0212_zpstpkb40fv.jpg "Picture of Me"
+
+
+lets try this smaller
+<d1>
+  <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/IMG_0212_zpstpkb40fv.jpg" alt="Picture of Me" style="width:300px;height:400px;">
+</d1>
 
 First week of the semester varies a lot across campus. It takes living with students from another college to get to see those differences play out.  Many other college’s commonly refer to this week as “chillabus week” due to the light workload that accompanies this week. Now I don't intend to try and sound like the typical CS “my life is harder than yours” kid that everyone hates, but the professors of the CS department have yet to be told to adhere to the unspoken rule of “chillabus week.” However if you have lived at 2317 Speedway, long enough you have grown to expect to hit the ground running, or sprinting depending on when your first 439 project is due, God bless your soul. If you’ve toughed it out long enough, or cried quietly enough in my case, you get the pleasure of tormenting your social life again by taking one of Downing’s classes. 
 
