@@ -1,6 +1,8 @@
 CS373 Spring 2016: Wes Draper
 
+
 Week One Reflection
+
 
 Picture of Wes
 <d1>
