@@ -1,10 +1,6 @@
-
-![alt text][logo]
-
-[logo]: http://i1273.photobucket.com/albums/y419/WesleyDraper/IMG_0212_zpstpkb40fv.jpg "Picture of Me"
-
-
-lets try this smaller
+CS373 Spring 2016: Wes Draper
+Week One Reflection
+Picture of Wes
 <d1>
   <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/IMG_0212_zpstpkb40fv.jpg" alt="Picture of Me" style="width:100px;height:133px;">
 </d1>
