@@ -1,7 +1,9 @@
-CS373 Spring 2016: Wes Draper
+----
+layout: post
+title: Week Two Reflection
+---
 
 
-Week Two Reflection
 
 
 <d1>
