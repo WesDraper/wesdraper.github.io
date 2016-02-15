@@ -1,4 +1,6 @@
-
+<d1>
+  <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/IMG_0212_zpstpkb40fv.jpg" alt="Picture of Me" style="width:200px;height:267px;">
+</d1>
 
 ##What did you do this past week?
 These past three weeks have been dominated by deadlines and recruiting. Recruitment has thrown somewhat of a wrench in my normal school schedule. Needless to say, I am looking forward to the peace that comes with having my internship locked down for the upcoming summer.
