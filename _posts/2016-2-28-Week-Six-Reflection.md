@@ -1,5 +1,5 @@
 <d1>
-  <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/WesDraperHeadshot_zps1iotzrhv.jpg" border="0" alt="Picture of Me"style="width:200px;height:267px;">
+  <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/WesDraperHeadshot_zps1iotzrhv.jpg" border="0" alt="Picture of Me"style="width:200px;height:300px;">
 </d1>
 
 
