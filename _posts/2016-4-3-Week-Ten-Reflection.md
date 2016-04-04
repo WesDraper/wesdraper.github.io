@@ -1,0 +1,13 @@
+<d1>
+  <img src="http://i1273.photobucket.com/albums/y419/WesleyDraper/WesDraperHeadshot_zps1iotzrhv.jpg" border="0" alt="Picture of Me"style="width:200px;height:300px;">
+</d1>
+
+
+##What did you do this past week?
+This past week's main focus was on XML, JSON, regular expressions. I did feel like a got lost in the weeds a little bit between the dtd's and xsd's, but this will just take some time to familiarize myself with those nuances. Another thing that I need to get the handle of is the vocabulary to describe those nuances. There were several times in class that I knew "about" the words we were using to describe properties but not the full definitions. More in-depth reading will help solve this problem, read to learn not to check off the list. We also had two guest speakers from Atlassian come give a presentation. And just like the two presenters before them they also mentioned agile development, further reinforcing it's importance in the workforce. 
+##What's in your way?
+This week we need to finish up the second part of the idb project. A big part of the work left for us is scrapping our sources and constructing our database. I have done a fair amount of templates for our html pages based on our models from the previous part, but I suspect those models to change slightly when  we actually build the database. One thing that I forsee beeing a problem is all of our media(pictures), first needs to have a standardized naming convention and i am unsure of how that will work when we pull that down. Second some of the front-end development will have to be changed because the images are going to be of varying sizes so some aspects of our current layout will be affected. 
+##What will you do next week?
+So once we build the database and restructure our models I will be in charge of making our templates work. I also need to look up how to incorporate react into our site, so I will need to do the sample tutorial for that software.
+##Tip-Top-Tips 
+I felt pretty lost when first approaching this project and did not completely understand the handoff between the backend and the frontend. I simply developed stand alone static HTML pages. But now developing the templates I couldn't afford not to understand. So I did the [flaskr](http://flask.pocoo.org/docs/0.10/tutorial/introduction/) tutorial and it helped immensely.  I would recommend that everyone on every team no matter your role do this alone. It really makes sure that everyone has a base level of understanding what their teammates are doing. For those on the frontend, the [jinja](http://jinja.pocoo.org/) tutorial is also super helpful. 
