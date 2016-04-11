@@ -14,6 +14,6 @@ So it seemed that the week went well we had the site fully functional on our vir
 We are trying to shoot for finishing part 3 this week, for several reasons. First and foremost being the nightmare that happened last Thursday. Second is everyone's schedule is lighter this week. And third  because our design sensei, @Julie, could use the week to really get the colors and styling the way she likes. Without having to worry about messing up the functionality. 
 
 ##Tip-Top-Tips 
-Check this quick (TedX)[https://www.youtube.com/watch?v=Na8m4GPqA30] talk out about how researchers figured out the types of things students tend to do in order to get good grades and not get good grades. Worth a watch! 
+Check this quick [TedX](https://www.youtube.com/watch?v=Na8m4GPqA30) talk out about how researchers figured out the types of things students tend to do in order to get good grades and not get good grades. Worth a watch! 
 
-also if you havent readed (this)[http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791] yet its worth it. 
+also if you havent readed [this](http://lifehacker.com/what-i-wish-i-knew-when-i-started-my-career-as-a-softwa-1681002791) yet its worth it. 
