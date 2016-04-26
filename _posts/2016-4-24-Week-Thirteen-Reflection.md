@@ -21,9 +21,9 @@ This next week  I will have to start studying for the test and getting the cheat
 
 ##Tip of the Week
 A couple of cool new products out there I thought were worth sharing.
-Project Infinite https://blogs.dropbox.com/business/2016/04/announcing-project-infinite/ is a new feature that dropbox has rolled out. It allows users to  access all their Dropbox files from the desktop, regardless of how much space they have available on their hard drives. Whether it’s stored locally or in the cloud, will show up in Dropbox on your desktop
+[Project Infinite](https://blogs.dropbox.com/business/2016/04/announcing-project-infinite/) is a new feature that dropbox has rolled out. It allows users to  access all their Dropbox files from the desktop, regardless of how much space they have available on their hard drives. Whether it’s stored locally or in the cloud, will show up in Dropbox on your desktop
 
-Franz http://www.meetfranz.com/ is a desktop app for Slack, WhatsApp, Skype, Telegram, Messenger, GroupMe and other messaging platforms. It is all in one app, keeping you from having to flip around between apps. 
+[Franz](http://www.meetfranz.com/) is a desktop app for Slack, WhatsApp, Skype, Telegram, Messenger, GroupMe and other messaging platforms. It is all in one app, keeping you from having to flip around between apps. 
 
 
 
